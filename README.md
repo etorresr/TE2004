@@ -32,4 +32,5 @@ Construcción de red de agentes: Con el agente diseñado en la etapa anterior se
 Procesamiento de la información: Por último, al tener la red de agentes trabajando, es necesario procesar la información de todos los agentes de forma simultánea. De esta manera, la fuente de ruido fuera de norma puede ser monitoreada a lo largo de la red de sensores establecida, en caso de seguir una ruta que cubran los agentes. Por lo tanto, se emplearán técnicas de cómputo en paralelo en la computadora que recibe la información de los agentes, para obtener predicciones de ruta en el menor tiempo posible.
 
 *Tecnologico de Monterrey*
+
 *Region Centro Sur*
